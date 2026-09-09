@@ -75,6 +75,20 @@ Graph visualization includes:
 - Lucide React
 - Framer Motion
 
+
+## Screenshots
+
+### Sorting
+
+![Sorting visualization](screenshots/sorting.png)
+
+### Searching
+
+![Searching visualization](screenshots/searching.png)
+
+### Graphs
+
+![Graph visualization](screenshots/graphs.png)
 ## Algorithms and Complexity
 
 | Algorithm | Time Complexity | Space Complexity |
